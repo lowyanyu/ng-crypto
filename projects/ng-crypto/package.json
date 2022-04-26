@@ -1,0 +1,18 @@
+{
+  "name": "@cg/ng-crypto",
+  "version": "2.0.3",
+  "description": "angular",
+  "keywords" :["Angular", "Library", "crypto"],
+  "repository": {
+    "type" : "git",
+    "url" : "http://gitlab.intranet/component/ng-crypto"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0",
+    "node-forge": "^0.8.5"
+  }
+}
